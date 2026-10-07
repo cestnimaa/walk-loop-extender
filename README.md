@@ -15,9 +15,9 @@ It is useful when you have a short imported walk animation, for example from Mix
 
 ## Download
 
-Download the plugin as a ZIP from:
+Download the ready-to-copy plugin ZIP from:
 
-https://github.com/cestnimaa/walk-loop-extender/archive/refs/heads/main.zip
+https://github.com/cestnimaa/walk-loop-extender/releases/download/v1.0.0/WalkLoopExtender-v1.0.0.zip
 
 Or clone the repository:
 
