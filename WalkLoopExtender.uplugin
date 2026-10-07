@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Walk Loop Extender",
+  "Description": "Extends short root-motion walk cycles into longer continuous walking animation assets inside Unreal Engine.",
+  "Category": "Animation",
+  "CreatedBy": "Nima Ghozatimoslehabadi",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "WalkLoopExtender",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
